@@ -24,7 +24,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     
       <div class="w3-black w3-text-white w3-card-4">
         <div class="w3-display-container">
-          <img src="https://mahasarakham-my.sharepoint.com/:i:/g/personal/62010914602_o365_msu_ac_th/ETrT7kaxbR1OiZyhdKMs1HoBUmGUp0qI54eCT6NCp-J5Fw?e=hgHIHh" style="width:100%;" alt="pictures">
+          <img src="https://mahasarakham-my.sharepoint.com/:i:/r/personal/62010914602_o365_msu_ac_th/Documents/IMG_0476.jpg?csf=1&web=1&e=Rgv0Ax" style="width:100%;" alt="pictures">
           <div class="w3-display-bottomleft w3-container w3-text-black">
            
           </div>
