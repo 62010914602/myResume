@@ -24,7 +24,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     
       <div class="w3-black w3-text-white w3-card-4">
         <div class="w3-display-container">
-          <img src="img_girl.jpg" style="max-width:100%;height:auto;">
+          <img src="C:\Users\uSeR\Pictures\123.jpg" style="max-width:100%;height:auto;">
           <div class="w3-display-bottomleft w3-container w3-text-black">
            
           </div>
